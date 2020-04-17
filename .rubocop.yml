@@ -1,0 +1,11 @@
+Metrics/BlockLength:
+  Exclude:
+    - spec/not_nil_spec.rb
+
+Layout/LineLength:
+  Exclude:
+    - not_nil.gemspec
+
+Gemspec/RequiredRubyVersion:
+  Exclude:
+    - not_nil.gemspec
